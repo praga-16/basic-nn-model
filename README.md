@@ -51,8 +51,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 ```
-NAME:ANITHA P
-REGISTER NO: 212221240004
+NAME: PRAGATHEESVARAN AB
+REGISTER NO: 212221240039
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
