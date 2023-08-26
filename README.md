@@ -111,22 +111,25 @@ ai.predict(X_n1_1)
 ```
 ## Dataset Information
 
-![image](https://github.com/anithapalani2123/basic-nn-model/assets/94184990/44710e33-4494-4480-917f-fc9bb50edebf)
+![image](https://github.com/praga-16/basic-nn-model/assets/95266924/6e25e3cd-64ea-428e-9df6-10714ded8f66)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![image](https://github.com/anithapalani2123/basic-nn-model/assets/94184990/9234d222-dbf5-4b45-bdac-cabcf0b10084)
+![image](https://github.com/praga-16/basic-nn-model/assets/95266924/58f821f8-f3ba-4849-ac37-1da06169d964)
+
 
 
 ### Test Data Root Mean Squared Error
-![image](https://github.com/anithapalani2123/basic-nn-model/assets/94184990/8441e9c6-13dc-469b-a665-45b637b906b2)
+![image](https://github.com/praga-16/basic-nn-model/assets/95266924/9661b763-b9e0-48f2-bc52-d0157e9c166c)
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/anithapalani2123/basic-nn-model/assets/94184990/77ff41ed-6a54-4aeb-ad3d-5ae647866b68)
+![image](https://github.com/praga-16/basic-nn-model/assets/95266924/91f81c91-b8bf-4229-8f1f-b1e54ad91c5e)
+
 
 
 ## RESULT:
